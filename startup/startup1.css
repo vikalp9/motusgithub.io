@@ -1,0 +1,21 @@
+body
+{
+background-image: url(https://www.careersinaudit.com/getasset/45b80f0b-1410-4675-99e6-c6e2885214d4/);
+cursor: pointer;
+}
+
+h1,h3
+{
+color:black;
+text-align:center;
+border:6px solid rgba(255,170,170,0.25);
+cursor: pointer;
+}
+
+h3
+{
+color:black;
+text-align:center
+}
+
+

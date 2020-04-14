@@ -1,0 +1,67 @@
+.container 
+{
+  text-align: center;
+  color: black;
+}
+
+*
+{
+background-color:pink;
+}
+
+h1
+{
+text-align:center;
+}
+
+h1:hover
+{
+text-align:center;
+background-color:pink;
+}
+
+body
+{
+background-color:pink;
+}
+
+.container
+{
+display: flex;
+flex-wrap:wrap;	
+justify-content:center;
+}
+
+h1
+{
+font-family:fantasy;
+font-size:3em;
+border-bottom:1px solid black;
+border-right:2px;
+width:400px;
+}
+
+
+h1:hover
+{
+font-family:holiday;
+}
+
+
+img
+{
+justify-content:center;
+transform: scale(2-2);
+}
+
+img
+{
+transition:alt 10s;
+}
+
+btn
+{
+background-color:red;
+}
+
+
